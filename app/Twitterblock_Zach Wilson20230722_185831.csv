@@ -1,0 +1,257 @@
+User Name,Date,Tweets,Likes,Comments,ReTweets
+"Zach Wilson
+@EcZachly
+·
+Nov 20, 2022",2022-11-20T19:31:54.000Z,"- a dog bed for Lulu and a small box of dog toys, water bowls, toothbrushes, other dog essentials
+
+- a large backpacking backpack with tent and sleeping bag for camping adventures. Also a smaller day pack for hiking adventures (3/4)///OTHER///",6,1,
+"Zach Wilson
+@EcZachly
+·
+Jul 16",2023-07-17T05:05:37.000Z,"If you have more than 10k followers on LinkedIn or Twitter and care about data engineering, DM me to join a special data eng creator only community that I’m starting! 
+
+#dataengineering///OTHER///",36,5,3
+"Zach Wilson
+@EcZachly
+·
+Jul 11",2023-07-11T17:42:16.000Z,"I own all three of these domains. Right now they all point to http://zachwilson.tech for no other reason than that was the first one I bought.
+I see value in each of these for different reasons.
+Another domain I bought recently was http://eczach.ly which will be a fun one… Show more///OTHER///",3,4,1
+"Zach Wilson
+@EcZachly
+·
+Jul 4",2023-07-04T21:50:34.000Z,"I wish the US would actually care about charts like this. We hit peak life expectancy TEN YEARS AGO when I was 19.  It’s gone downhill since then.
+
+That’s my one wish as an American this July 4th. Please do more about fentanyl US government! I’ve lost more friends to fentanyl… Show more///OTHER///",25,2,
+"Zach Wilson
+@EcZachly
+·
+Jun 29",2023-06-30T01:11:39.000Z,"I finished the payments integration for my boot camp today! 
+
+Enrollment starts tomorrow! 
+
+250 slots in the next one! Starts 7/17! 
+
+If you’re a paid newsletter subscriber, you get the link one hour before free subscribers and two hours before Twitter and LI!
+
+Link in my bio!///OTHER///",13,1,
+"Ananth Packkildurai
+@ananthdurai
+·
+Jun 26",2023-06-26T21:31:54.000Z,"The 136th edition of 
+@data_weekly
+ exploring all things LLM and Vector Databases; Eppo's incremental data pipeline and Etsy's timestamp issues with Timeseries DB are some of my favorites in this edition. What is your?///OTHER///",8,,2
+"Zach Wilson
+@EcZachly
+·
+Jun 23",2023-06-23T18:58:19.000Z,"I wrote a long-form article about the things I did to get into Facebook even though I didn't go to an Ivy League or even have any connections with big tech!
+
+In the article I talk about,
+
+- my journey from college graduation to getting the job at Facebook
+- the projects I worked… Show more///OTHER///",29,1,4
+"Scott DeGeest, MBA PhD
+@dscottdegeest
+·
+Jun 19",2023-06-19T16:37:16.000Z," Tag: I survived EcZachly Inc’s data engineering bootcamp and all I got was this certificate…
+
+A couple of weeks ago, I completed 
+@EcZachly
+'s data engineering boot camp. Let me share my takeaways. 
+
+ Dimensional data modeling
+
+Zach showed us some use…///OTHER///",10,,2
+"Zach Wilson
+@EcZachly
+·
+Jun 14",2023-06-14T23:09:21.000Z,"When I quit my job at Netflix in March 2020, I was exhausted but extremely hopeful.  
+
+I remember telling my coworkers that I’d be a content creator and entrepreneur after I traveled the world. 
+
+They thought leaving a $500k job to make content was insane! 
+
+COVID-19 stopped the… Show more///OTHER///",63,6,3
+"Zach Wilson
+@EcZachly
+·
+Jun 4",2023-06-05T03:30:33.000Z,The weekly recommended number of active zone minutes is 150. I did 341 today. Can I take the next 17 days off? ///OTHER///,7,1,
+"Zach Wilson
+@EcZachly
+·
+May 26",2023-05-26T22:16:13.000Z,"More technical data engineers are going to rebel against platforms like Databricks!
+
+The infrastructure as code phenomenon we are seeing is going to reduce Databricks platform leverage. 
+
+Data engineers will reach for tooling like Terraform or Tabular to interact with the cloud… Show more///OTHER///",75,3,7
+"Zach Wilson
+@EcZachly
+·
+May 17",2023-05-17T20:04:32.000Z,"LLMs are going to make data modeling an overpowered data engineering skill!
+
+If you can describe the input schemas and the output schemas of your pipeline, LLMs can generate the SQL details and Airflow DAG steps that are in between!
+1/3///OTHER///",75,3,7
+"Zach Wilson
+@EcZachly
+·
+May 8",2023-05-08T19:42:32.000Z,"A year ago today, I posted my compensation history in order to combat taboos and increase transparency. 
+
+I was featured in this Forbes article here: https://forbes.com/sites/kimelsesser/2022/05/07/as-more-employees-reveal-pay-organizations-must-prepare-to-discuss-compensation/?sh=60a283ce63c2…
+
+Glad to see some states requiring salary ranges in the job description nowadays! 
+
+#dataengineering///OTHER///",104,6,4
+"Zach Wilson
+@EcZachly
+·
+Apr 30",2023-04-30T20:38:11.000Z,"Data science is tricky like a crystal ball. 
+Do you fall victim to bad data or overfitting? 
+No quitting, find the insight that will delight
+Bite down on the bytes with GROUP BY 
+You’ll wonder why your analysis is so dry 
+You cry when you see a pie chart
+You start creating data… Show more///OTHER///",20,,
+"Zach Wilson
+@EcZachly
+·
+Apr 20",2023-04-21T05:07:13.000Z,Please point on the doll where the non-idempotent pipeline hurt you///OTHER///,11,1,
+"Zach Wilson
+@EcZachly
+·
+Apr 15",2023-04-15T21:06:22.000Z,"How you should model your dimensions depends on who your downstream consumers are! 
+
+- data analysts 
+Regular daily dimension tables are probably best for data analysts. The JOIN logic is very simple and straight forward. Use SCD type 2 if the dimensions are bulky!  1/3///OTHER///",66,4,8
+"Zach Wilson
+@EcZachly
+·
+Apr 11",2023-04-11T20:22:53.000Z,"The data value chain is how companies ""distill"" raw data into high-quality decision-making! 
+
+There are many steps to this process that involves various aspects of engineering, statistics, design, and visualization. 
+
+Expecting one person to manage this entire chain or even most… Show more///OTHER///",77,1,11
+"Zach Wilson
+@EcZachly
+·
+Apr 7",2023-04-07T21:19:57.000Z,"ChatGPT is a data engineering super power! Describe schemas and analytical patterns and boom done you gave a finished pipeline! 
+
+#DataEngineering 
+
+If you liked this content, please follow me on Instagram, http://instagram.com/eczachly///OTHER///",126,5,14
+"Zach Wilson
+@EcZachly
+·
+Apr 3
+·",2023-04-03T21:15:15.000Z,"Parallelism in Spark is tricky to understand. There’s a balancing act between task parallelism and network overhead that you need to consider! 
+
+#dataengineering 
+If you liked this content, please follow my IG, http://instagram.com/eczachly///OTHER///",102,1,7
+"Zach Wilson
+@EcZachly
+·
+Mar 28",2023-03-28T22:01:13.000Z,I really hope TikTok gives me my $2 before they get banned///OTHER///,48,7,1
+"Zach Wilson
+@EcZachly
+·
+Mar 20",2023-03-20T22:45:36.000Z,"Don’t forget the engineering in data engineering! 
+
+The number of flimsy, slapped together pipelines I’ve seen in my career is too high! 
+
+#dataengineering///OTHER///",50,1,
+"Zach Wilson
+@EcZachly
+·
+Mar 13",2023-03-13T23:29:55.000Z,"- my product 
+I’m building a product for tech creators that will enabled them to make money and learn about their audience.  It’s been critical for my growth on LinkedIn
+
+- my peace
+I’ve been working a lot these past 2 years on both Airbnb and content. I want to have more free… Show more///OTHER///",46,,1
+"Zach Wilson
+@EcZachly
+·
+Feb 28",2023-02-28T23:18:59.000Z,"Job negotiation is so important! Here’s some tips: 
+
+- don’t give the first number. If pressed give a range 
+- ask about other things besides salary 
+- ALWAYS negotiate! 
+
+Follow me on TikTok for me: http://TikTok.com/@eczachly///OTHER///",35,3,2
+"Zach Wilson
+@EcZachly
+·
+Feb 18
+·",2023-02-18T20:38:50.000Z,"Apache Spark is great because it’s so versatile and platform agnostic. 
+
+Spark isn’t always the solution though! 
+
+if low-latency is a requirement, Spark is bad. It has pitfalls in terms of infra efficiency
+
+If you aren’t careful about what type of files you’re writing. Your…///OTHER///",84,4,6
+"Zach Wilson
+@EcZachly
+·
+Jan 19",2023-01-19T17:42:10.000Z,"Microsoft switching to unlimited PTO and then laying off thousands is such a bad look!
+I used to believe in Satya Nadella!///OTHER///",46,6,1
+"Zach Wilson
+@EcZachly
+·
+Dec 2, 2022",2022-12-03T01:10:50.000Z,"- define the data flow
+What are our upstream sources? Are they high enough quality? Are we missing anything in our logs? 
+
+- define the metrics
+What KPIs will this data pipeline generate? How can we plug these into experiments? 3/N///OTHER///",11,1,
+"Zach Wilson
+@EcZachly
+·
+Nov 17, 2022",2022-11-18T01:23:07.000Z,"Tools like Databricks and Snowflake will make business savvy more valuable than technical skills in this area. 
+
+Don't sleep on analytics engineering! It's going to keep becoming bigger and bigger! 4/4///OTHER///",23,1,
+"Zach Wilson
+@EcZachly
+·
+Nov 7, 2022",2022-11-07T09:15:13.000Z,This work has been fun to implement!///OTHER///,21,1,1
+"Zach Wilson
+@EcZachly
+·
+Oct 30, 2022",2022-10-30T22:09:06.000Z,"For Halloween this year I’m going as an ETL job! 
+
+Happy Halloween y’all! 
+#dataengineering///OTHER///",28,,2
+"Zach Wilson
+@EcZachly
+·
+Oct 24, 2022",2022-10-24T21:14:19.000Z,"- lack of recognition and respect
+Data engineers often get paid less than software engineers at the same level but have oncall rotations just like them. Data engineers don’t generally have as visible of a role as their data science counterparts. [4/4]///OTHER///",11,,1
+"Zach Wilson
+@EcZachly
+·
+Oct 23, 2022",2022-10-24T00:11:01.000Z,"I decided that in order to hedge my bet on any one of these, I should probably learn most of them. 
+I started with mobile development. I built an Android app for Magic The Gathering that allowed you to build and test decks. (2/4)///OTHER///",11,1,
+"Zach Wilson
+@EcZachly
+·
+Oct 22, 2022",2022-10-22T21:19:15.000Z,"Data engineers solve pain.
+
+- pain of not knowing what’s going on
+- pain of cloud provider bills 
+- pain of running experiments (alongside data scientists)
+- pain of bad data 
+- pain of stale data 
+
+If you can get good at solving this pain, you’ll be an amazing data engineer!///OTHER///",101,,16
+"SeattleDataGuy
+@SeattleDataGuy
+·
+Oct 4, 2022",2022-10-04T20:26:15.000Z,"Just heard the intern I was an intern manager for got hired back to FB for 2022.
+
+And the analyst I was working with to become a DE inside at FB became a DE.
+
+ They grow up so fast.///OTHER///",35,2,1
+"JT
+@jtamayo97
+·
+Sep 22, 2022",2022-09-22T21:27:24.000Z,Broke into DE from Tech Support !///OTHER///,11,3,1
+"Sahar Massachi
+@sayhar
+·
+Sep 20, 2022",2022-09-21T03:09:00.000Z,What… What did bimbimbop do to you?///OTHER///,1,1,1
